@@ -1,0 +1,23 @@
+{
+  "name": "React Kanban",
+  "short_name": "RKanban",
+  "start_url": "?source=pwa",
+  "theme_color": "#0079bf",
+  "background_color": "#0079bf",
+  "display": "fullscreen",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "static/media/512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "density": 0.75
+    },
+    {
+      "src": "static/media/192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "density": 0.75
+    }
+  ]
+}
